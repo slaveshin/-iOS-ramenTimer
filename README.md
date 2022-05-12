@@ -1,4 +1,4 @@
-# Ramen Timer App(iOS)
+# Timer App(iOS)
 
 Swift를 이용하여 만든 첫번째 앱
 
